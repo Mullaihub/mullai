@@ -1,0 +1,14 @@
+jinja2
+markdown
+pyyaml
+peewee
+pymysql
+python-slugify
+watchdog
+requests
+bs4
+lxml
+
+setuptools
+twine
+wheel
